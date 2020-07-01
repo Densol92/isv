@@ -19,6 +19,30 @@
           "quantity": 1
         }
       ]
+    },
+    {
+      "creation_date": "2012-01-29",
+      "operation_date": "2012-02-29",
+      "expiration_date": "2012-03-29",
+      "test": true,
+      "activation_data": "b71ed5e5-ebea-4f7b-8f92-11a5c5d1408c",
+      "owner": {
+        "id": 1,
+        "activation_data": "efbe6472-d9e5-4ad8-914b-553874fe015d"
+      },
+      "id": 6252326,
+      "items": [
+        {
+          "id": 1223213,
+          "item": "SOLUS-IO-1M",
+          "quantity": 1
+        },
+        {
+          "id": 21313123123,
+          "item": "SOLUS-CPU-CORES-1M",
+          "quantity": 10
+        },
+      ]
     }
   ]
 }
