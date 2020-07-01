@@ -10,4 +10,6 @@ or dateteime format: 2020-07-01T00:00:00-04:00
                   
  
 ## Do we need previous license body?
+We can support it - just pass body parameter on renew. Isv must check it correctness.
+Or we can send previous "Idempotency-Key", if it was successfully processed. 
 ## Use date or datetime?
