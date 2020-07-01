@@ -1,11 +1,24 @@
 {
-  "posts": [
+  "key": [
     {
-      "id": 1,
-      "title": "hello"
+      "creation_date": "2012-01-29T10:05:45-06:00",
+      "operation_date": "2012-02-29T10:05:45-06:00",
+      "expiration_date": "2012-03-29T10:05:45-06:00",
+      "test": false,
+      "activation_data": "b71ed5e5-ebea-4f7b-8f92-b0a5c5d1408c",
+      "owner": {
+        "id": 1,
+        "activation_data": "efbe6472-d9e5-4ad8-914b-573874fe015d"
+      },
+      "id": 6252325,
+      "nfr": true,
+      "items": [
+        {
+          "id": 1,
+          "item": "PLESK-12-WEB-ADMIN-1M",
+          "quantity": 1
+        }
+      ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
